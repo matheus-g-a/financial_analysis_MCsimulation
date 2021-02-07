@@ -1,13 +1,3 @@
-import os
-import requests
-import json
-import pandas as pd
-from dotenv import load_dotenv
-import alpaca_trade_api as tradeapi
-from MCForecastTools import MCSimulation
-
-%matplotlib inline
-
 # financial_analysis_MCsimulation
 Finance analysis model to verify the portfolio assets 
 # Technologies
